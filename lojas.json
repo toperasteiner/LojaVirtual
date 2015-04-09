@@ -1,0 +1,98 @@
+[{
+        "titulo": "Conjunto de Xícaras",
+        "imagem": "http://www.blackburncathedral.com/userfiles/gift%20shop%20080.jpg",
+        "qtde": 25,
+        "valor": 54.99,
+        "categoria": ["Casa", "Presente"]
+    },
+    {
+        "titulo": "Conjunto de Vasos",
+        "imagem": "http://www.chrysler.org/files/resources/ms-vases.jpg",
+        "qtde": 8,
+        "valor": 89.99,
+        "categoria": ["Presente", "Decoração", "Arte"]
+    },
+    {
+        "titulo": "Vaso formato xícara",
+        "imagem": "https://s-media-cache-ak0.pinimg.com/236x/19/96/dc/1996dc8dd5d7ce4ff58f6366f7be40d8.jpg",
+        "qtde": 57,
+        "valor": 25.90,
+        "categoria": ["Decoração", "Presente"]
+    },
+    {
+        "titulo": "Sapato alto Coveteur",
+        "imagem": "http://www.thecoveteur.com/wp-content/uploads/2013/01/screen_shot_2013-10-18_at_1.59.25_pm-228x228.png",
+        "qtde": 145,
+        "valor": 259.90,
+        "categoria": ["Calçados", "Presente"]
+    },
+    {
+        "titulo": "Óleo Alora",
+        "imagem": "http://thetig.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-15-at-3.30.45-PM-365x368.png",
+        "qtde": 80,
+        "valor": 19.99,
+        "categoria": ["Presente", "Beleza", "Loções"]
+    },
+    {
+        "titulo": "Carrinhos Monster Trucks",
+        "imagem": "http://ecx.imagems-amazon.com/imagems/I/81H9tTvUk8L._SY355_.jpg",
+        "qtde": 12,
+        "valor": 25.90,
+        "categoria": ["Infantil", "Presente", "Brinquedos"]
+    },
+    {
+        "titulo": "Sapato Pandeme",
+        "imagem": "http://www.thecoveteur.com/wp-content/uploads/2014/06/Screen-shot-2014-06-16-at-9.22.33-AM-228x228.png",
+        "qtde": 58,
+        "valor": 299.90,
+        "categoria": ["Calçados", "Presente"]
+    },
+    {
+        "titulo": "Blusa Coveteurs",
+        "imagem": "http://www.thecoveteur.com/wp-content/uploads/2014/07/Screen-shot-2014-07-30-at-11.19.05-AM-228x228.png",
+        "qtde": 160,
+        "valor": 45.00,
+        "categoria": ["Presente", "Roupas"]
+    },
+    {
+        "titulo": "Sapato Crystal",
+        "imagem": "http://www.thecoveteur.com/wp-content/uploads/2014/06/Screen-shot-2014-06-11-at-2.05.28-PM-228x228.png",
+        "qtde": 126,
+        "valor": 429.90,
+        "categoria": ["Calçados", "Presente", "Feminino"]
+    },
+    {
+        "titulo": "Batom Stila",
+        "imagem": "http://www.thecoveteur.com/wp-content/uploads/2014/11/Screen-shot-2014-11-17-at-9.03.33-AM-228x228.png",
+        "qtde": 8,
+        "valor": 99.90,
+        "categoria": ["Feminino", "Presente", "Maquiagem"]
+    },
+    {
+        "titulo": "Bonequos Miniatura",
+        "imagem": "https://www-cdn.dragonsprophetthegame.com/imagems/themes/base/shop/in-game-item-red.png?v=1867061418",
+        "qtde": 10,
+        "valor": 45.00,
+        "categoria": ["Presente", "Brinquedos"]
+    },
+    {
+        "titulo": "Bolsa HoodLove",
+        "imagem": "http://cdn.thebolditalic.com/e=c(resrcit_cdn_origin)/s=w700,pd1/o=85/http://cdn.thebolditalic.com/paperclip/html_imagems/35142/imagems/original/HoodLove_StoryHero.jpg?1405628050",
+        "qtde": 64,
+        "valor": 500.90,
+        "categoria": ["Bolsas", "Presente", "Feminino"]
+    },
+    {
+        "titulo": "Toalha Hermes-Paris",
+        "imagem": "http://www.architecturaldigest.com/shop/2013-06/shopping-most-wanted/_jcr_content/par/cn_contentwell/par-main/cn_ad_slideshow/item14.rendition.slideshowHorizontal.june-shopping-15-hermes-beach-towel.jpg",
+        "qtde": 51,
+        "valor": 99.90,
+        "categoria": ["Banho", "Presente"]
+    },
+    {
+        "titulo": "Livro Fox Catcher",
+        "imagem": "http://www.penguin.com/wp-content/uploads/2015/01/Foxcatcher.jpg",
+        "qtde": 10,
+        "valor": 55.00,
+        "categoria": ["Presente", "Livros"]
+    }]
