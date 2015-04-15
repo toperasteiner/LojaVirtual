@@ -32,4 +32,12 @@
         "qtde": 80,
         "valor": 19.99,
         "categoria": ["Presente", "Beleza", "Loções"]
-    }]
+    },
+    {
+        "titulo": "TESTE",
+        "imagem": "http://www.aondir.com/img/estabelecimentos/foto_884.jpg",
+        "qtde": 80,
+        "valor": 19.99,
+        "categoria": ["Presente", "Beleza", "Loções"]
+    }
+    ]
