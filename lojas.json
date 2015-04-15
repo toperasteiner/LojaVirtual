@@ -32,4 +32,15 @@
         "qtde": 80,
         "valor": 19.99,
         "categoria": ["Presente", "Beleza", "Loções"]
-    }]
+    }
+    
+    {
+        "titulo": "Botequim da Frau",
+        "imagem": "https://cla0608.files.wordpress.com/2010/04/botequim-da-frau.jpg",
+        "qtde": 80,
+        "valor": 19.99,
+        "categoria": ["Presente", "Beleza", "Loções"]
+    }
+    
+    
+    ]
