@@ -3,7 +3,8 @@
    "imagem": "http://www.aondir.com/img/estabelecimentos/foto_884.jpg",
    "horario": "20:00 - 02:00",
    "dias": "Quarta a Domingo",
-   "Observacao": "teste teste teste",
+   "observacao": "teste teste teste",
+   "entrada": "R$: 10,00",
    "qtde": 80,
    "valor": 19.99,
    "categoria": ["Presente", "Beleza", "Loções"]
