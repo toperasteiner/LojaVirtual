@@ -1,6 +1,6 @@
 [{
         "titulo": "Taj Bar",
-        "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0Ff_r6GWjhpxID6lRvcQSuzIROzmpedR119EcJvS1hvMQprZY=",
+        "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0Ff_r6GWjhpxID6lRvcQSuzIROzmpedR119EcJvS1hvMQprZY",
         "qtde": 25,
         "valor": 54.99,
         "categoria": ["Casa", "Presente"]
